@@ -14,7 +14,7 @@ SELECT * FROM TABLE 1
 WHERE CONDITION = NET
 
 ```
-![](IMG.JPG)
+![](IMG_20240418_074356.jpg)
 
 |Heading 1|Heading 2|Heading 3|
 |---------|---------|---------|
